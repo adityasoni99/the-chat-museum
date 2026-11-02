@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap');
+:root { font-family:'DM Sans',sans-serif; color:#e9e4d8; background:#151513; font-synthesis:none; text-rendering:optimizeLegibility; -webkit-font-smoothing:antialiased; --paper:#e9e4d8; --gold:#c5a96b; --muted:#847d70; --line:#38352e; --serif:'Playfair Display',Georgia,serif; }
+* { box-sizing:border-box; } body { margin:0; min-width:320px; min-height:100vh; background:radial-gradient(ellipse at 50% -30%,#29271f 0%,#151513 58%); }
+button,a { font:inherit; } ::selection { background:#c5a96b; color:#151513; }
